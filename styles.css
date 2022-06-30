@@ -1,0 +1,60 @@
+.body{
+    font-family: 'SEGOE UI LIGHT';
+    background-color: #07111D;
+    text-align: center;
+}
+.container{
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.img_money{
+    max-width: 600px;
+    max-height: 450px;
+    width: auto;
+    height: auto;   
+}
+
+.btn_log button{
+    margin-top: 5px;
+    font-size: 20px;
+    background-color: #008058;
+    color: white;
+
+}
+
+.btn_log:hover {
+    color: aquamarine;
+
+}
+
+.btn_conta:hover {
+    color: aquamarine;
+}
+
+.btn_log:focus {
+    box-shadow: 0 0 0 1px #FFFFFF;
+}
+
+.btn_conta:focus {
+    box-shadow: 0 0 0 1px #FFFFFF;
+}
+
+.btn_conc button{
+    margin-top: 5px;
+    font-size: 20px;
+    background-color: #008058;
+    color: white;
+
+}
+
+.container p {
+    color: aquamarine;
+}
+
+.form-floating{
+    color: #07111D;
+    border: 0ch;
+    width: 500px;
+    margin: 20px auto;
+}
